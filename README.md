@@ -12,6 +12,7 @@ Bitaxe Gamma devices
 ## Project Support
 
 GitHub Sponsors
+
 Crypto
  - BTC
  - BCH
