@@ -42,8 +42,34 @@ GitHub Sponsors
 
 ## Acknowledgements & Special Thanks
 
-Tabler https://tabler.io/
+<img alt="### Tabler" src="https://raw.githubusercontent.com/tabler/tabler/refs/heads/dev/shared/static/logo.svg" width="150px" />
 
-NMMiner https://www.nmminer.com
+[[Website]](https://tabler.io/)&nbsp;&nbsp;[[Github]](https://github.com/tabler/tabler)
 
-Bitaxe https://bitaxe.org/
+Tabler is a premium and open source dashboard template with a responsive and high-quality UI. They offer an MIT licensed open-source project, which CryMiner relied on for it's beautiful interface. They also offer several affordable options for commercial licensing and additional upgrades.
+
+Check out the website for commercial pricing and other products, or their GitHub if you would like to learn more about the project, and help support them by becoming a sponsor or showing them some love through PayPal.
+
+<br />
+
+<img alt="### NMMiner" src="https://www.nmminer.com/wp-content/uploads/2024/11/nmlogo.svg" width="75px" />
+
+[[Website]](https://www.nmminer.com)&nbsp;&nbsp;[[Github]](https://github.com/NMminer1024)
+
+NMMiner provides low power, low cost, SOLO crypto miner solutions which can also still be used for pool mining across a variety of coins on the SHA-256 algorithm. They utilize a unique firmware which can turn inexpensive ESP32 devices into lotto miners, as well as advanced ASIC chips, without losing the same feature rich firmware.
+
+Check out the various products they have ranging from fun and quirky ESP32 devices to more industrial ASIC devices with a minimalist aesthetic feel. Have some ESP32 devices laying around the house doing nothing? Use their web flashing tool to get them mining in minutes for a basic $3 license fee.
+
+The open source code provided for their NM Web Controller software provided a lot of great inspiration for features within CryMiner, and enabled support the NMMiner devices that much easier.
+
+<br />
+
+<img alt="### Bitaxe" src="https://github.com/bitaxeorg/.github/raw/main/plain-logo-white.png#gh-dark-mode-only" width="125px" />
+
+[[Website]](https://bitaxe.org/)&nbsp;&nbsp;[[Github]](https://github.com/bitaxeorg)
+
+Bitaxe is a Bitcoin miner based on an open-source design and a modern mining ASIC, offering efficiency and customization for users. It is a fantastically fully open source firmware and hardware design. You can download the PCBs and more from their website, and find a number of authorized sources you can buy pre-packaged hardware from.
+
+Check out their website for more details, links on where to buy, and links to all of their design files and source code. Also feel free to show them some love using the donate links, or becoming a sponsor on one of their various Github project for each of the different devices they produce and support.
+
+The open source code provided for their firmware provided a lot of great inspiration for features within CryMiner, and enabled support the Bitaxe devices that much easier.
