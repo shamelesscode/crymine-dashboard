@@ -32,12 +32,12 @@ As an open source project with the ambitious goal to support a wide variety of d
 GitHub Sponsors
 
 |  Wallet QR Code  |  Coin & Wallet Address  |
-|  :----:   |      :---      |
-| ![Bitcoin Wallet Address QR Code](.resources/qrcode-btc.png) | **Bitcoin (BTC)** <br />15DQhHXgzwfbeTkngq9RcswsLYZEFgY8Uy |
-| ![Bitcoin Cash Wallet Address QR Code](.resources/qrcode-bch.png) | **Bitcoin Cash (BCH)** <br /> bitcoincash:qqlun2xxptudq9x3ruylgaeqjxqk8lrr4uwt5afp0g |
-| ![DigiByte Wallet Address QR Code](.resources/qrcode-dgb.png) | **DigiByte (DGB)** <br /> DAn41iMJ8YAowT7G3CY7MyTsLojKJM1jRT |
-| ![eCash Wallet Address QR Code](.resources/qrcode-xec.png) | **eCash (XEC)** <br /> ecash:qzzunawnndpmyjry6zj5y8jvce2828xj0sp2d4zwzs |
-| ![USD Coin Wallet Address QR Code](.resources/qrcode-usdc.png) | **USD Coin (USDC)** <br /> _ERC20 Network_ <br /> 0xca84325ecc3ca74a9c7282ab46e7315c37ca7a46 |
+|  :---            |      :---               |
+| <img alt="Bitcoin Wallet Address QR Code" src=".resources/qrcode-btc.png" width="100px;"/> | **Bitcoin (BTC)** <br />15DQhHXgzwfbeTkngq9RcswsLYZEFgY8Uy |
+| <img alt="Bitcoin Cash Wallet Address QR Code" src=".resources/qrcode-bch.png" width="100px;" /> | **Bitcoin Cash (BCH)** <br /> bitcoincash:qqlun2xxptudq9x3ruylgaeqjxqk8lrr4uwt5afp0g |
+| <img alt="DigiByte Wallet Address QR Code" src=".resources/qrcode-dgb.png" width="100px;" /> | **DigiByte (DGB)** <br /> DAn41iMJ8YAowT7G3CY7MyTsLojKJM1jRT |
+| <img alt="eCash Wallet Address QR Code" src=".resources/qrcode-xec.png" width="100px;" /> | **eCash (XEC)** <br /> ecash:qzzunawnndpmyjry6zj5y8jvce2828xj0sp2d4zwzs |
+| <img alt="USD Coin Wallet Address QR Code" src=".resources/qrcode-usdc.png" width="100px;" /> | **USD Coin (USDC)** <br /> _ERC20 Network_ <br /> 0xca84325ecc3ca74a9c7282ab46e7315c37ca7a46 |
 
 
 ## Acknowledgements & Special Thanks
