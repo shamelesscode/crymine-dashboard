@@ -1,0 +1,3 @@
+[submodule "submodules/tabler"]
+	path = submodules/tabler
+	url = https://github.com/tabler/tabler
