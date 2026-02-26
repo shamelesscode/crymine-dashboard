@@ -12,7 +12,6 @@ The first deployment model on the roadmap is Docker support due to it's ability 
 
 The second deployment model will be standalone SBC deployments for devices like the Radxa Rock 4D or Raspberry Pi 4/5, primarily targeting Debian based OSes.
 
-
 ## Device Support
 
 ### Intial Target Devices
@@ -24,21 +23,19 @@ The second deployment model will be standalone SBC deployments for devices like 
 - Bitaxe Gamma 601 [[yf-onestopmining]](https://www.ebay.com/str/yfonestopmining)
 - Bitaxe Gamma 602 [[Solosatoshi]](https://www.solosatoshi.com/product/bitaxe-gamma/)
 
-
 ## Project Support
 
 As an open source project with the ambitious goal to support a wide variety of devices, it's not always the cheapest or easiest to come by some of these devices, especially when some manufacturers have slight differences in their firmware capabilities across different devices which require specific development. While I do use the devices I have on hand to actively mine and help generate some passive income (as I suspect everyone interested in this project is doing), it doesn't always help cover the cost of some of the devices. Any support received from the links below goes directly into the cost of acquiring new devices, and the subsequent development to add support for them.
 
 GitHub Sponsors
 
-|  Wallet QR Code  |  Coin & Wallet Address  |
-|  :---            |      :---               |
+| Wallet QR Code | Coin & Wallet Address |
+| :--- | :--- |
 | <img alt="Bitcoin Wallet Address QR Code" src=".resources/qrcode-btc.png" width="100px;"/> | **Bitcoin (BTC)** <br />15DQhHXgzwfbeTkngq9RcswsLYZEFgY8Uy |
 | <img alt="Bitcoin Cash Wallet Address QR Code" src=".resources/qrcode-bch.png" width="100px;" /> | **Bitcoin Cash (BCH)** <br /> bitcoincash:qqlun2xxptudq9x3ruylgaeqjxqk8lrr4uwt5afp0g |
 | <img alt="DigiByte Wallet Address QR Code" src=".resources/qrcode-dgb.png" width="100px;" /> | **DigiByte (DGB)** <br /> DAn41iMJ8YAowT7G3CY7MyTsLojKJM1jRT |
 | <img alt="eCash Wallet Address QR Code" src=".resources/qrcode-xec.png" width="100px;" /> | **eCash (XEC)** <br /> ecash:qzzunawnndpmyjry6zj5y8jvce2828xj0sp2d4zwzs |
 | <img alt="USD Coin Wallet Address QR Code" src=".resources/qrcode-usdc.png" width="100px;" /> | **USD Coin (USDC)** <br /> _ERC20 Network_ <br /> 0xca84325ecc3ca74a9c7282ab46e7315c37ca7a46 |
-
 
 ## Acknowledgements & Special Thanks
 
